@@ -1,0 +1,25 @@
+Slip 8b 
+Q2 Start Raspberry Pi and execute various Linux commands in the command 
+terminal window: ls, cd, touch, mv, rm, man, mkdir, rmdir, tar, gzip, cat, 
+more, less, ps, sudo, cron, chown, chgrp, ping etc. 
+Here are the main Linux commands you must execute on the Raspberry Pi 
+with their simple purpose: 
+● ls – List files and folders 
+● cd – Change directory 
+● touch – Create an empty file 
+● mv – Move or rename a file 
+● rm – Remove/delete a file 
+● man – Show manual/help for a command 
+● mkdir – Create a new folder 
+● rmdir – Remove an empty folder 
+● tar – Create/extract archive files 
+● gzip – Compress or decompress files 
+● cat – View contents of a file 
+● more – View long files page-by-page 
+● less – View files with scroll up/down 
+● ps – Show running processes 
+● sudo – Run command as administrator 
+● cron – Schedule automated tasks 
+● chown – Change file owner 
+● chgrp – Change file group 
+● ping – Test network connection
